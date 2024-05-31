@@ -1,6 +1,6 @@
 # Final Coding
 
-Click anywhere on the screen to see the red and blue dots flow.
+***Click anywhere on the screen to see the red and blue dots flow.***
 
 I used a time-based animation for this effect.
 
